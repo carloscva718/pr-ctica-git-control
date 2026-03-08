@@ -1,1 +1,1 @@
-dos
+uno y dos (conflicto resuelto)
